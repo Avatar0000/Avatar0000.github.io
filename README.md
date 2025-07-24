@@ -1,1 +1,21 @@
-# Avatar0000.github.io
+
+<h1> Welcome to Shawn's Portfolio Page </h1>
+
+<h2>Information Technology:</h2>
+
+<h2>CyberSecurity:</h2>
+
+<h2>Programming:</h2>
+
+
+
+  <!--
+<h1>
+  <nav>
+  <a href=www.linkedin.com/in/shawn-blain> Programming Professional |</a>
+  <a href=www.linkedin.com/in/shawn-blain> IT Professional |</a>
+   <a href=www.linkedin.com/in/shawn-blain>Cyber Professional</a>
+  </nav>
+</h1>
+</html>
+-->
