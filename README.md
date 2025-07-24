@@ -1,13 +1,13 @@
 
-<h1> Welcome to Shawn's Portfolio Page </h1>
+<h1> Welcome to Shawn's Portfolio</h1>
 
-<h2>Information Technology:</h2>
+<h2>Information Technology</h2>
 
-<h2>CyberSecurity:</h2>
+<h2>CyberSecurity</h2>
 
-<h2>Programming:</h2>
+<h2>Programming</h2>
 
-<h3><a href ="www.linkedin.com/in/shawn-blain">Linkedin</h3>
+<h3><a href ="www.linkedin.com/in/shawn-blain">Linkedin </h3> 
 
 
   <!--
