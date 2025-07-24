@@ -7,7 +7,7 @@
 
 <h2>Programming</h2>
 
-<h3><a href ="www.linkedin.com/in/shawn-blain](https://www.linkedin.com/in/shawn-blain/"> Linkedin </h3> 
+<h3><a href ="https://www.linkedin.com/in/shawn-blain/"> Linkedin </h3> 
 
 
   <!--
